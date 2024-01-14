@@ -18,7 +18,7 @@ export default defineConfig({
             // Each item here is one entry in the navigation menu.
             {
               label: "Example Guide",
-              link: "/starlight-docs-gh-pages/guides/example/",
+              link: "/guides/example/",
             },
           ],
         },
